@@ -1,4 +1,4 @@
-## hahnAit Test APIs
+## HahnAir Test APIs
 
 ### Requirements
 ```
@@ -6,7 +6,7 @@ Node.js 12.0 or greater.
 Npm 6.0 or greater.
 ```
 
-##### install npm packages
+##### install npm packages and set environment
 ```
 Run : npm install
 Open .env file and set all the environment variables
