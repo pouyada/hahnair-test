@@ -1,0 +1,15 @@
+# Node modules
+node_modules
+
+# Environment variables, never commit this file
+#.env
+
+
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9/
+.DS_Store
+.config
+data
